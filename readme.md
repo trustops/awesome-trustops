@@ -90,6 +90,7 @@ TrustOps is an emerging discipline focused on integrating trust and security pra
 - [Artifact Attestations](https://github.blog/security/supply-chain-security/configure-github-artifact-attestations-for-secure-cloud-native-delivery/) - Verifies that all software artifacts have been attested to by their creators, ensuring their integrity.
 - [Attest.org](https://attest.org/) - Ethereum Attestation Service (EAS) is an infrastructure designed to create attestations on-chain or off-chain about any subject or event, providing a public good for decentralized verification and trust.
 - [in-toto](https://in-toto.io/) - A framework to secure the integrity of software supply chains.
+- [C-ATTS](https://catts.run/) - Attest to a wide range of on-chain data, to create composite attestation.
 
 ### Act
 
