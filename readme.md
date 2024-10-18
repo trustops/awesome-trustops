@@ -78,6 +78,8 @@ TrustOps is an emerging discipline focused on integrating trust and security pra
 ### Collect
 
 - [Chalk](https://github.com/crashappsec/chalk) - A tool that captures and embeds metadata into build artifacts, enabling identification and traceability in production environments.
+- [Syft](https://github.com/anchore/syft) -  An open-source tool for generating Software Bill of Materials (SBOMs) for container images and filesystems.
+
 
 ### Authenticate
 
